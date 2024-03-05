@@ -1,0 +1,30 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 0 0 4rem 0;
+    background-color: lightgrey;
+    
+    &__titulo{
+        font-style: italic;
+    }
+
+    &__nav{
+
+        &__lista{
+            display: flex;
+            gap: 4rem;
+
+            &__ancora{
+                text-decoration: none;
+                color: black;
+
+                &__item{
+                    list-style-type: none;
+                    font-size: 1.2rem;
+                }
+            }
+
+        }
+    }
+}

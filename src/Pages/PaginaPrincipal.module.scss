@@ -1,0 +1,33 @@
+.container{
+    
+
+    &__titulo{
+        color: white;
+        margin: 0 0 2rem 0;
+    }
+
+    &__tabela{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width: 710px){
+    .container {
+        background-color: green;
+
+        &__tabela{
+            
+            &__grid{
+                display: flex;
+                flex-direction: column;
+                flex-wrap: wrap;
+
+                &__column{
+                    background-color: gray;
+                }
+            }
+        }
+    }
+}
