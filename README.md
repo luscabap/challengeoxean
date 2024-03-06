@@ -39,8 +39,8 @@ Para fazer os testes, basta ir através do terminal do windows até a pasta que 
 
 _WEB_
 
-![GK1](https://github.com/luscabap/lusca-jest/blob/main/public/web_01.png)
-![GK1](https://github.com/luscabap/lusca-jest/blob/main/public/web_02.png)
+![GK1](https://github.com/luscabap/challengeoxean/blob/main/public/web_01.png)
+![GK1](https://github.com/luscabap/challengeoxean/blob/main/public/web_02.png)
 
 ---
 
