@@ -31,7 +31,7 @@ Utilizei as seguintes dependências no projeto:
 
 Para fazer os testes, basta ir através do terminal do windows até a pasta que foi feita a instalação do projeto e rodar o comando: npm test
 
-🌎 Deploy do projeto: [https://lusca-amigo-secreto.vercel.app/](https://lusca-amigo-secreto.vercel.app/)
+🌎 Deploy do projeto: [https://challengeoxean.vercel.app/](https://challengeoxean.vercel.app/)
 
 ---
 
