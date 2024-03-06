@@ -1,4 +1,4 @@
-<h1 align="center"> 💻 Lucas Baptista - Challenge OxeanBits 🎲 </h1>
+<h1 align="center"> 💻 Lucas Baptista - Challenge OxeanBits 🧪 </h1>
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
@@ -23,6 +23,13 @@ O site possui 2 funcionalidades:
   - Teste Header: verifica se o titulo foi renderizado corretamente na página.
 
 Instrução Do Projeto:
+Utilizei as seguintes dependências no projeto:
+ - npx create-kendoreact-app
+ - npm install axios
+ - npm install -g sass
+ - npm install sass --save-dev
+
+Para fazer os testes, basta ir através do terminal do windows até a pasta que foi feita a instalação do projeto e rodar o comando: npm test
 
 🌎 Deploy do projeto: [https://lusca-amigo-secreto.vercel.app/](https://lusca-amigo-secreto.vercel.app/)
 
