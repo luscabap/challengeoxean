@@ -12,5 +12,6 @@ export type IPropsReq = {
 }
 
 export type IPropsResultadoReq = {
-  resultadoReq: IProps[]
+  resultadoReq: IProps[],
+  subtitulo: string
 }

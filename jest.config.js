@@ -1,9 +1,5 @@
 module.exports = {
-    preset: 'ts-jest',
-    testEnvironment: 'node',
-    transform: {
-      '^.+\\.tsx?$': 'ts-jest',
-      '^.+\\.jsx?$': 'babel-jest', // Adicionando o suporte do Babel para arquivos JS/JSX
-    },
-  };
-  
+  transformIgnorePatterns: [
+    '/node_modules/(?!axios)/' // Aqui 'axios' é o módulo que você quer que o Jest transforme
+  ]
+};

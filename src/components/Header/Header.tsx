@@ -6,13 +6,13 @@ export default function Header() {
             <h1 className={styles.container__titulo}>Projeto de API do Rick and Morty</h1>
             <nav className={styles.container__nav}>
                 <ul className={styles.container__nav__lista}>
-                    <a href='#' className={styles.container__nav__lista__ancora}>
+                    <a className={styles.container__nav__lista__ancora}>
                         <li className={styles.container__nav__lista__ancora__item}>Home</li>
                     </a>
-                    <a href='#' className={styles.container__nav__lista__ancora}>
+                    <a className={styles.container__nav__lista__ancora}>
                         <li className={styles.container__nav__lista__ancora__item}>Episódios</li>
                     </a>
-                    <a href='#' className={styles.container__nav__lista__ancora}>
+                    <a className={styles.container__nav__lista__ancora}>
                         <li className={styles.container__nav__lista__ancora__item}>Personagens</li>
                     </a>
                 </ul>
