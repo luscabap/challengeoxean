@@ -1,46 +1,80 @@
-# Getting Started with Create React App
+<h1 align="center"> 💻 Lucas Baptista - Challenge OxeanBits 🧪 </h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+ <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-layout">Layout</a> • 
+ <a href="#-tecnologias">Tecnologias</a> • 
+ <a href="#-autor">Desenvolvedor</a> • 
+ <a href="#user-content--licença">Licença</a>
+</p>
 
-## Available Scripts
+## 🖥️ Sobre o projeto
 
-In the project directory, you can run:
+O projeto foi desenvolvido utilizando:
+- Jest e Testing Library foram empregados para aperfeiçoar a prática de testes unitários na aplicação.
+- React, TypeScript, SASS para criação e estilização da página;
 
-### `npm start`
+O site possui 2 funcionalidades:
+- Filtrar os episódios da série Rick And Morty, a partir de um componente Grid com colunas do ID, número do episódio e nome da biblioteca Kendo UI;
+- Além do mais, o site também possui Cards dos personagens da série, onde é iformado o nome, foto, gênero, espécie e status de cada um deles.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- Existem 2 testes no site:
+  - Teste da página principal: verifica se existe algum retorno na requisição da API;
+  - Teste Header: verifica se o titulo foi renderizado corretamente na página.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Instrução Do Projeto:
+Utilizei as seguintes dependências no projeto:
+ - npx create-kendoreact-app
+ - npm install axios
+ - npm install -g sass
+ - npm install sass --save-dev
 
-### `npm test`
+Para fazer os testes, basta ir através do terminal do windows até a pasta que foi feita a instalação do projeto e rodar o comando: npm test
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+🌎 Deploy do projeto: [https://challengeoxean.vercel.app/](https://challengeoxean.vercel.app/)
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🖼️ Layout
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+_WEB_
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![GK1](https://github.com/luscabap/lusca-jest/blob/main/public/web_01.png)
+![GK1](https://github.com/luscabap/lusca-jest/blob/main/public/web_02.png)
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 🛠 Tecnologias 
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+As seguintes ferramentas foram usadas para desenvolver o projeto:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### Front End
+- JEST <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"/>
+- TESTING LIBRARY <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+- REACT <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+- TYPESCRIPT <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+- SASS  <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/>
+- NPM <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"/>
+ 
+          
+### Ambiente de Desenvolvimento
+- Visual Studio Code <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+---
 
-## Learn More
+## 👨‍🎓 Desenvolvedor
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<a href="https://www.linkedin.com/in/lucas-baptista-da-silva-133779233/">
+Lucas Baptista da Silva</a>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<br/>
+
+E-mail: lucasbaptistasilva.dev@gmail.com <a href = "mailto:lucasbaptistasilva.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"></a>
+
+---
+
+### 📝 Licença
+
+Este projeto esta sobre a LICENÇA:
+
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/luscabap/lusca-projeto_organo/blob/master/LICENSE)
