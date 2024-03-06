@@ -69,7 +69,7 @@ Lucas Baptista da Silva</a>
 
 <br/>
 
-<a href = "mailto:lucasbaptistasilva.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"></a>
+E-mail: lucasbaptistasilva.dev@gmail.com <a href = "mailto:lucasbaptistasilva.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"></a>
 
 ---
 
