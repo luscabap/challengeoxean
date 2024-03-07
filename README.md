@@ -15,8 +15,8 @@ O projeto foi desenvolvido utilizando:
 - React, TypeScript, SASS para criação e estilização da página;
 
 O site possui 2 funcionalidades:
-- Filtrar os episódios da série Rick And Morty, a partir de um componente Grid com colunas do ID, número do episódio e nome da biblioteca Kendo UI;
-- Além do mais, o site também possui Cards dos personagens da série, onde é iformado o nome, foto, gênero, espécie e status de cada um deles.
+- Filtrar os episódios da série Rick And Morty utilizando um componente Grid com colunas que incluem o ID, número do episódio e nome da biblioteca Kendo UI.
+- Além do mais, o site também possui Cards dos personagens da série, onde é informado o nome, foto, gênero, espécie e status de cada um deles.
 
 - Existem 2 testes no site:
   - Teste da página principal: verifica se existe algum retorno na requisição da API;
